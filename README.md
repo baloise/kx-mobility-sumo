@@ -4,7 +4,7 @@
 
 The [Eclipse SUMO](https://openmobility.eclipse.org/technologies/eclipse-sumo/) project is  part of the [openMobility](https://openmobility.eclipse.org/) working group.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/repository-template-nosrc)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/kx-mobility-sumo)
 
 ## idea: Evaluate the use of "SUMO" to enhance our insurance products and services
 
