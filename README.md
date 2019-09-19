@@ -4,4 +4,10 @@ The [Eclipse SUMO](https://openmobility.eclipse.org/technologies/eclipse-sumo/) 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/repository-template-nosrc)
 
-## the [docs](docs/index.md)
+## idea: Evaluate the use of "simulation of urban mobility" to enhance our products and services
+
+Predicting the future within mobility is crucial: simulating this in advance is one way of prediction.
+
+We'd evaluate what the impact of (open-source) traffic simulation engines could have on enhancing our insurance products and services.
+
+Furthermore we could join industry working groups (along with e.g. BOSCH and the German Aerospace Center) to evaluate the needs and trends within the industry.
