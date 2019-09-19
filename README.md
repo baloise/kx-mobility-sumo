@@ -6,7 +6,7 @@ The [Eclipse SUMO](https://openmobility.eclipse.org/technologies/eclipse-sumo/) 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/repository-template-nosrc)
 
-## idea: Evaluate the use of "simulation of urban mobility" to enhance our insurance products and services
+## idea: Evaluate the use of "SUMO" to enhance our insurance products and services
 
 Predicting the future within mobility is crucial: simulating this in advance is one way of prediction.
 
