@@ -14,7 +14,7 @@ The [Eclipse SUMO](https://openmobility.eclipse.org/technologies/eclipse-sumo/) 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/kx-mobility-sumo)
 
-## idea: Evaluate the use of "SUMO" to enhance our insurance products and services
+## idea: Evaluate the use of "SUMO" to enhance our (insurance) products and services
 
 Predicting the future within mobility is crucial: simulating this in advance is one way of prediction.
 
@@ -35,6 +35,12 @@ Furthermore we could join industry working groups (along with e.g. [BOSCH and th
 - team up with R&D departments for experience and knowledge exchange
 
 ## aims
-- reduce project costs for early prototype projects by simulating their potential impact and outcome
+
+### stream 1: insurance
 - reduce claim costs by reducing the accident rate for black spots e.g. by supporting projects to alter the current traffic situations
+
+### stream 2: mobility
+- reduce project costs for early prototype projects by simulating their potential impact and outcome
+
+### stream 3: r&d
 - build up partnerships for future projects
