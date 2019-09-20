@@ -4,6 +4,14 @@
 
 The [Eclipse SUMO](https://openmobility.eclipse.org/technologies/eclipse-sumo/) project is  part of the [openMobility](https://openmobility.eclipse.org/) working group.
 
+### Videos
+
+#### Simulating Autonomous Vehicles and Future Mobility Concepts in Urban Areas
+[![](https://img.youtube.com/vi/B9y33pCeAJ8/0.jpg)](https://www.youtube.com/watch?v=B9y33pCeAJ8)
+
+#### Move Your Crate - How to optimize your mobility
+[![](https://img.youtube.com/vi/ZhudL9YoGtc/0.jpg)](https://www.youtube.com/watch?v=ZhudL9YoGtc)
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/kx-mobility-sumo)
 
 ## idea: Evaluate the use of "SUMO" to enhance our insurance products and services
