@@ -47,8 +47,8 @@ Furthermore we could join industry working groups (along with e.g. [BOSCH and th
 
 ## need narrative
 
-For `target audience`, it’s a constant challenge to `general problem`. Each `time period`, these people `perform a key activity` in order to `achieve a primary goal`. This is especially true if you’re a `niche`.
+For `insurer`, it’s a constant challenge to `pay for mobility (accident) related claims`. Each `time`, they `pay out` in order to `cover costs for damages happened`. This is especially true if you’re a `full stack insurer`.
 
-The main problem they face is `primary functional problem relating to activity` which leads to `bad/worst case outcomes`. Today, their best option is `substitutes/concurrents`, but of course, they `the most common complaints of each substitute`. With `key trend`, the problem will only get worse over time.
+The main problem they face is `they only come into play after the damage has happened` which leads to `only reactive measure being taken`. Today, their best option is `be better than others in risk calculation`, but of course, they `don't change the risk itself`. With `increase in flexible mobility demands`, the problem will only get worse over time.
 
-If there was only a `better/easier/cheaper` way to `perform a key activity`, then customers could `quantifiable impact on their primary goal`, which would lead to `positive outcomes / emotions`. With `number of potential customers`, there is a clear opportunity to meaningfully impact a huge number of people.
+If there was only a `cheaper and better` way to `prevent mobility related accidents to happen in the first place`, then customers would `be safer in the first place and insurer pay less for claims over time`, which would lead to `positive outcomes for both: society and the insurer`. With `number of potential customers related to mobility insurances`, there is a clear opportunity to meaningfully impact a huge number of people.
