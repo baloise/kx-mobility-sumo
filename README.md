@@ -23,7 +23,7 @@ We'd evaluate what the impact of an (open-source) traffic simulation engine coul
 Furthermore we could join industry working groups (along with e.g. [BOSCH and the German Aerospace Center (and others)](https://openmobility.eclipse.org/members/)) to evaluate the needs and trends within the industry.
 
 ## scenarios
-- traffic situations for accident black spots 
+- traffic situations for accident black spots
 - optimizations for new mobility solutions e.g. commuting between cities
 - individual high-risk traffic situations such as overtaking on country roads
 - interaction between different upcoming traffic models (increase in public transportation, combination with local, individual mobility)
@@ -44,3 +44,11 @@ Furthermore we could join industry working groups (along with e.g. [BOSCH and th
 
 ### stream 3: r&d
 - build up partnerships for future projects
+
+## need narrative
+
+For `insurer`, it’s a constant challenge to `pay for mobility (accident) related claims`. Each `time`, they `pay out` in order to `cover costs for damages happened`. This is especially true if you’re a `full stack insurer`.
+
+The main problem they face is `they only come into play after the damage has happened` which leads to `only reactive measure being taken`. Today, their best option is `be better than others in risk calculation`, but of course, they `don't change the risk itself`. With `increase in flexible mobility demands`, the problem will only get worse over time.
+
+If there was only a `cheaper and better` way to `prevent mobility related accidents to happen in the first place`, then customers would `be safer and insurer pay less for claims over time`, which would lead to `positive outcomes for both: society and the insurer`. With `number of potential customers related to mobility insurances`, there is a clear opportunity to meaningfully impact a huge number of people.
